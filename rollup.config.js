@@ -27,7 +27,7 @@ function wait() {
 		transform(_code, id) {
 			console.log('BEFORE', id);
 			pause(1e3);
-			console.log('AFTER',id);
+			console.log('AFTER', id);
 		}
 	}
 }
